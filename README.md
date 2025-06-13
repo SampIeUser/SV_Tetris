@@ -1,4 +1,4 @@
-# SV_Tetris
+# Tetris
 🎮 Tetris game on C#
 
 ## 1. Installation
